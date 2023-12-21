@@ -18,12 +18,14 @@
 <br />
 
 ## Overview
+
 <p align="justify">
-  <img src="images/bali_datasets.png" width=32.5% alt="bali">
-  <img src="images/sunda_datasets.png" width=32.5% alt="sunda">
-  <img src="images/lampung_datasets.png" width=32.5% alt="lampung>
+<img src="images/bali_datasets.png" width=32.5% alt="bali">
+<img src="images/sunda_datasets.png" width=32.5% alt="sunda">
+<img src="images/lampung_datasets.png" width=32.5% alt="lampung>
   
 This repository constitutes an integral component of the machine learning workflow, serving as the primary source of data for training the model. It contains meticulously curated datasets that have undergone thorough cleaning processes.
+</p>
 
 ## Workflow
 
@@ -36,7 +38,6 @@ We gather data from <a href="https://www.kaggle.com/datasets/anggitpambudihutomo
 * `Image Cleaning`: We employ the OpenCV-Python library to perform data preprocessing tasks such as cleaning, grayscale conversion, binarization, and resizing.
 * `Augmentation` : We utilize the `imgaug` library to apply rotation and shear transformations to images within a canvas, adapting the size based on input parameters.
 * `Train/Val splits`: We partition the datasets using an 80:20 ratio.
-</p>
 
 ## Contributors
 
