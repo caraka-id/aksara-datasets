@@ -20,9 +20,9 @@
 ## Overview
 
 <p align="justify">
-<img src="images/bali_datasets.png" width=32.5% alt="bali">
-<img src="images/sunda_datasets.png" width=32.5% alt="sunda">
-<img src="images/lampung_datasets.png" width=32.5% alt="lampung>
+  <img src="images/bali_datasets.png" width=32.5% alt="bali">
+  <img src="images/sunda_datasets.png" width=32.5% alt="sunda">
+  <img src="images/lampung_datasets.png" width=32.5% alt="lampung">
   
 This repository constitutes an integral component of the machine learning workflow, serving as the primary source of data for training the model. It contains meticulously curated datasets that have undergone thorough cleaning processes.
 </p>
